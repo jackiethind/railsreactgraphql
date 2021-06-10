@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a quick demostration of the use of a backend with Ruby on Rails and Graphql.
 
-Things you may want to cover:
+Frontend is built with React and TailwindCSS.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+In this SPA, you can create, read, update and delete users.
